@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\bin\Debug\net6.0\OddOrEvenKata.exe
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\bin\Debug\net6.0\OddOrEvenKata.deps.json
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\bin\Debug\net6.0\OddOrEvenKata.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\bin\Debug\net6.0\OddOrEvenKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\bin\Debug\net6.0\OddOrEvenKata.pdb
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\obj\Debug\net6.0\OddOrEvenKata.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\obj\Debug\net6.0\OddOrEvenKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\obj\Debug\net6.0\OddOrEvenKata.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\obj\Debug\net6.0\OddOrEvenKata.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\obj\Debug\net6.0\OddOrEvenKata.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\obj\Debug\net6.0\OddOrEvenKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\obj\Debug\net6.0\refint\OddOrEvenKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\obj\Debug\net6.0\OddOrEvenKata.pdb
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\obj\Debug\net6.0\OddOrEvenKata.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\OddOrEvenKata\OddOrEvenKata\obj\Debug\net6.0\ref\OddOrEvenKata.dll
